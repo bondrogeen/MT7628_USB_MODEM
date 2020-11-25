@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MT7628_USB_MODEM-rescue)(type Legacy)(uri ${KIPRJMOD}/MT7628_USB_MODEM-rescue.lib)(options "")(descr ""))
+)
